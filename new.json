@@ -1,0 +1,1736 @@
+
+
+{
+    "data": {
+        "oMNZEq": {
+            "sno": 1,
+            "status": "Defective",
+            "comments": "Vegetation cover in foundation leg and this has to be removed",
+            "location": {
+                "lat": "14.93157",
+                "long": "76.157021"
+            },
+            "towerName": "Tower 1",
+            "towerImage": [
+                "newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerdata/oMNZEq/Images/Y6xDJI_20240503131753_0002_V.JPG"
+            ],
+            "display_image": "",
+            "pointjson_path": "newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/tower/oMNZEq/pointsjson/oMNZEq.json",
+            "reportFilePath": "",
+            "videoFilePathIR": [],
+            "videoFilePathRGB": [],
+            "towerJsonFilePath": {
+                "oMNZEq": {
+                    "jumper": {
+                        "uaCY8s": {
+                            "Name": "Jumper 1",
+                            "isDefect": true,
+                            "Defects": [
+                                "Hotspot"
+                            ],
+                            "Comments": "Hotspot found on Jumper 1",
+                            "Criticality": "High",
+                            "Location": {
+                                "Circuit": "",
+                                "Phase": "",
+                                "Other": "",
+                                "Side": "",
+                                "ConductorCount": ""
+                            },
+                            "Resolved": {
+                                "Isresolved": true,
+                                "Images": [],
+                                "ClientRemarks": {}
+                            },
+                            "WorkStatusAndQC": {
+                                "CreatedBy": "narmadha@lesoko.in",
+                                "CreatedDate": "2024-05-30 09:07:24.796357+00:00",
+                                "Updatedby": "bhuvanamoorthy333@gmail.com",
+                                "LastupdatedDate": "2024-06-13 05:13:45.636701+00:00",
+                                "QCby": "",
+                                "QCDate": "",
+                                "Status": "Yet To Start",
+                                "workRemarks": ""
+                            },
+                            "IR": [],
+                            "RGB": [
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/jumper/uaCY8s/2nFDJI_20240503135528_0015_V.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=e63a96e07dc426ec8614569ddd486ecd30f963c13b057a7abf260dcaace4177f",
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/jumper/uaCY8s/VEJDJI_20240503135528_0015_T.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=4d0ab77f16baa244eb5f6607eaffd9d73e6c34c1b74eaec391ce4649f575863b"
+                            ],
+                            "TempValues": {
+                                "sp1": "35.40°C",
+                                "sp2": "39.80°C",
+                                "sp3": "45.30°C"
+                            },
+                            "CommentType": "We are identified and resolved the defects",
+                            "Zoomimage": ["pic2.png","pic2.png"],
+                            "pointid": ""
+                        },
+                        "oebfEH": {
+                            "Name": "Jumper 2",
+                            "isDefect": true,
+                            "Defects": [
+                                "Hotspot"
+                            ],
+                            "Comments": "Hotspot found on Jumper 2",
+                            "Criticality": "High",
+                            "Location": {
+                                "Circuit": "",
+                                "Phase": "",
+                                "Other": "",
+                                "Side": "",
+                                "ConductorCount": ""
+                            },
+                            "Resolved": {
+                                "Isresolved": false,
+                                "Images": [],
+                                "ClientRemarks": {}
+                            },
+                            "WorkStatusAndQC": {
+                                "CreatedBy": "narmadha@lesoko.in",
+                                "CreatedDate": "2024-05-30 09:07:24.796395+00:00",
+                                "Updatedby": "bhuvanamoorthy333@gmail.com",
+                                "LastupdatedDate": "2024-06-13 05:13:10.339813+00:00",
+                                "QCby": "",
+                                "QCDate": "",
+                                "Status": "Yet To Start",
+                                "workRemarks": ""
+                            },
+                            "IR": [],
+                            "RGB": [
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/jumper/oebfEH/GfoDJI_20240503135622_0025_V.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=4ac929224e2c111af70024dd74adc6aaef551c62cbce2b2aaea2a4439ccdc2e3",
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/jumper/oebfEH/b3eDJI_20240503135622_0025_T.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=dee021e351032554dc1b80e1ee986248f90c14492a0ac2587a0b26ceeca14b9a"
+                            ],
+                            "TempValues": {
+                                "sp1": "35.20°C",
+                                "sp2": "35.70°C",
+                                "sp3": "44.20°C"
+                            },
+                            "CommentType": "Comments",
+                            "Zoomimage": [],
+                            "pointid": ""
+                        },
+                        "Z8dMQc": {
+                            "Name": "Jumper 3",
+                            "isDefect": true,
+                            "Defects": [
+                                "Hotspot"
+                            ],
+                            "Comments": "Hotspot found on Jumper 3",
+                            "Criticality": "High",
+                            "Location": {
+                                "Circuit": "",
+                                "Phase": "",
+                                "Other": "",
+                                "Side": "",
+                                "ConductorCount": ""
+                            },
+                            "Resolved": {
+                                "Isresolved": true,
+                                "Images": [],
+                                "ClientRemarks": {}
+                            },
+                            "WorkStatusAndQC": {
+                                "CreatedBy": "narmadha@lesoko.in",
+                                "CreatedDate": "2024-05-30 09:07:24.796414+00:00",
+                                "Updatedby": "bhuvanamoorthy333@gmail.com",
+                                "LastupdatedDate": "2024-06-13 05:13:19.622072+00:00",
+                                "QCby": "",
+                                "QCDate": "",
+                                "Status": "Yet To Start",
+                                "workRemarks": ""
+                            },
+                            "IR": [],
+                            "RGB": [
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/jumper/Z8dMQc/Q4vDJI_20240503135703_0035_V.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=42294cd1b3eeec99a52799807418697b0d7cb54259f15714672fd29fed0724d1",
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/jumper/Z8dMQc/fCvDJI_20240503135703_0035_T.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=bf19ce468aeb478593ed40c691d0cf980033abae0561bc9aa0dc1ff134a2d609"
+                            ],
+                            "TempValues": {
+                                "sp1": "34.50°C",
+                                "sp2": "36.70°C",
+                                "sp3": "43.30°C"
+                            },
+                            "CommentType": "We are identified and resolved the defects",
+                            "Zoomimage": ["pic2.png"],
+                            "pointid": ""
+                        }
+                    },
+                    "crossarm": {
+                        "Rilx6v": {
+                            "Name": "Cross Arm 1",
+                            "isDefect": false,
+                            "Defects": [],
+                            "Comments": "",
+                            "Criticality": "",
+                            "Location": {
+                                "Circuit": "",
+                                "Phase": "",
+                                "Other": "",
+                                "Side": "",
+                                "ConductorCount": ""
+                            },
+                            "Resolved": {
+                                "Isresolved": false,
+                                "Images": [],
+                                "ClientRemarks": {}
+                            },
+                            "WorkStatusAndQC": {
+                                "CreatedBy": "narmadha@lesoko.in",
+                                "CreatedDate": "2024-05-30 09:07:30.875500+00:00",
+                                "Updatedby": "narmadha@lesoko.in",
+                                "LastupdatedDate": "2024-05-30 09:11:45.548371+00:00",
+                                "QCby": "",
+                                "QCDate": "",
+                                "Status": "Yet To Start",
+                                "workRemarks": ""
+                            },
+                            "IR": null,
+                            "RGB": [
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/crossarm/Rilx6v/Gn3DJI_20240503140125_0055_V.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=1e1fdd31865aaaae4e82817448a64ceb68ef86398edb8d76425e6956a1cfd6a7"
+                            ],
+                            "TempValues": null,
+                            "CommentType": "Comments",
+                            "Zoomimage": [],
+                            "pointid": ""
+                        },
+                        "57YtWm": {
+                            "Name": "Cross Arm 2",
+                            "isDefect": false,
+                            "Defects": [],
+                            "Comments": "",
+                            "Criticality": "",
+                            "Location": {
+                                "Circuit": "",
+                                "Phase": "",
+                                "Other": "",
+                                "Side": "",
+                                "ConductorCount": ""
+                            },
+                            "Resolved": {
+                                "Isresolved": false,
+                                "Images": [],
+                                "ClientRemarks": {}
+                            },
+                            "WorkStatusAndQC": {
+                                "CreatedBy": "narmadha@lesoko.in",
+                                "CreatedDate": "2024-05-30 09:07:30.875540+00:00",
+                                "Updatedby": "narmadha@lesoko.in",
+                                "LastupdatedDate": "2024-05-30 09:11:50.100889+00:00",
+                                "QCby": "",
+                                "QCDate": "",
+                                "Status": "Yet To Start",
+                                "workRemarks": ""
+                            },
+                            "IR": null,
+                            "RGB": [
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/crossarm/57YtWm/alFDJI_20240503140128_0056_V.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=3f6e3b3abcac7489b12ccb3bb9dff2be05126dd7c0c0522b859683cd65d6f95e"
+                            ],
+                            "TempValues": null,
+                            "CommentType": "Comments",
+                            "Zoomimage": [],
+                            "pointid": ""
+                        },
+                        "fgBQYU": {
+                            "Name": "Cross Arm 3",
+                            "isDefect": false,
+                            "Defects": [],
+                            "Comments": "",
+                            "Criticality": "",
+                            "Location": {
+                                "Circuit": "",
+                                "Phase": "",
+                                "Other": "",
+                                "Side": "",
+                                "ConductorCount": ""
+                            },
+                            "Resolved": {
+                                "Isresolved": false,
+                                "Images": [],
+                                "ClientRemarks": {}
+                            },
+                            "WorkStatusAndQC": {
+                                "CreatedBy": "narmadha@lesoko.in",
+                                "CreatedDate": "2024-05-30 09:07:30.875560+00:00",
+                                "Updatedby": "narmadha@lesoko.in",
+                                "LastupdatedDate": "2024-05-30 09:11:54.542558+00:00",
+                                "QCby": "",
+                                "QCDate": "",
+                                "Status": "Yet To Start",
+                                "workRemarks": ""
+                            },
+                            "IR": null,
+                            "RGB": [
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/crossarm/fgBQYU/s19DJI_20240503140130_0057_V.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=c55c706e7b1e25d31f27553a41139e7324f19245af5e751235948edee71e0b82"
+                            ],
+                            "TempValues": null,
+                            "CommentType": "Comments",
+                            "Zoomimage": [],
+                            "pointid": ""
+                        },
+                        "UeIhhN": {
+                            "Name": "Cross Arm 4",
+                            "isDefect": false,
+                            "Defects": [],
+                            "Comments": "",
+                            "Criticality": "",
+                            "Location": {
+                                "Circuit": "",
+                                "Phase": "",
+                                "Other": "",
+                                "Side": "",
+                                "ConductorCount": ""
+                            },
+                            "Resolved": {
+                                "Isresolved": false,
+                                "Images": [],
+                                "ClientRemarks": {}
+                            },
+                            "WorkStatusAndQC": {
+                                "CreatedBy": "narmadha@lesoko.in",
+                                "CreatedDate": "2024-05-30 09:07:30.875578+00:00",
+                                "Updatedby": "narmadha@lesoko.in",
+                                "LastupdatedDate": "2024-05-30 09:11:59.464506+00:00",
+                                "QCby": "",
+                                "QCDate": "",
+                                "Status": "Yet To Start",
+                                "workRemarks": ""
+                            },
+                            "IR": null,
+                            "RGB": [
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/crossarm/UeIhhN/QmQDJI_20240503140133_0058_V.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=6effb3f69b960a63de56944c90003f3d6f2d5f41b326983447ed5268c7203358"
+                            ],
+                            "TempValues": null,
+                            "CommentType": "Comments",
+                            "Zoomimage": [],
+                            "pointid": ""
+                        },
+                        "jPOXzO": {
+                            "Name": "Cross Arm 5",
+                            "isDefect": false,
+                            "Defects": [],
+                            "Comments": "",
+                            "Criticality": "",
+                            "Location": {
+                                "Circuit": "",
+                                "Phase": "",
+                                "Other": "",
+                                "Side": "",
+                                "ConductorCount": ""
+                            },
+                            "Resolved": {
+                                "Isresolved": false,
+                                "Images": [],
+                                "ClientRemarks": {}
+                            },
+                            "WorkStatusAndQC": {
+                                "CreatedBy": "narmadha@lesoko.in",
+                                "CreatedDate": "2024-05-30 09:07:30.875594+00:00",
+                                "Updatedby": "narmadha@lesoko.in",
+                                "LastupdatedDate": "2024-05-30 09:12:04.863870+00:00",
+                                "QCby": "",
+                                "QCDate": "",
+                                "Status": "Yet To Start",
+                                "workRemarks": ""
+                            },
+                            "IR": null,
+                            "RGB": [
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/crossarm/jPOXzO/4reDJI_20240503140137_0059_V.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=9c943c2c178c3b20b0d54c4df7a53ae3b962722c5c841e71e558e69decd3bfcb"
+                            ],
+                            "TempValues": null,
+                            "CommentType": "Comments",
+                            "Zoomimage": [],
+                            "pointid": ""
+                        },
+                        "2ueZbB": {
+                            "Name": "Cross Arm 6",
+                            "isDefect": false,
+                            "Defects": [],
+                            "Comments": "",
+                            "Criticality": "",
+                            "Location": {
+                                "Circuit": "",
+                                "Phase": "",
+                                "Other": "",
+                                "Side": "",
+                                "ConductorCount": ""
+                            },
+                            "Resolved": {
+                                "Isresolved": false,
+                                "Images": [],
+                                "ClientRemarks": {}
+                            },
+                            "WorkStatusAndQC": {
+                                "CreatedBy": "narmadha@lesoko.in",
+                                "CreatedDate": "2024-05-30 09:07:30.875611+00:00",
+                                "Updatedby": "narmadha@lesoko.in",
+                                "LastupdatedDate": "2024-05-30 09:12:09.404285+00:00",
+                                "QCby": "",
+                                "QCDate": "",
+                                "Status": "Yet To Start",
+                                "workRemarks": ""
+                            },
+                            "IR": null,
+                            "RGB": [
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/crossarm/2ueZbB/5IFDJI_20240503140138_0060_V.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=3f90b8fe065a13ad272e12710d37982441aaa6ff0a427a98f3379e3893a29b3c"
+                            ],
+                            "TempValues": null,
+                            "CommentType": "Comments",
+                            "Zoomimage": [],
+                            "pointid": ""
+                        }
+                    },
+                    "gwjumper": {
+                        "a2m35u": {
+                            "Name": "GW Jumper 1",
+                            "isDefect": false,
+                            "Defects": [],
+                            "Comments": "",
+                            "Criticality": "",
+                            "Location": {
+                                "Circuit": "",
+                                "Phase": "",
+                                "Other": "",
+                                "Side": "",
+                                "ConductorCount": ""
+                            },
+                            "Resolved": {
+                                "Isresolved": false,
+                                "Images": [],
+                                "ClientRemarks": {}
+                            },
+                            "WorkStatusAndQC": {
+                                "CreatedBy": "narmadha@lesoko.in",
+                                "CreatedDate": "2024-05-30 09:07:37.692954+00:00",
+                                "Updatedby": "bhuvanamoorthy333@gmail.com",
+                                "LastupdatedDate": "2024-06-13 05:34:59.132329+00:00",
+                                "QCby": "",
+                                "QCDate": "",
+                                "Status": "Yet To Start",
+                                "workRemarks": ""
+                            },
+                            "IR": [],
+                            "RGB": [
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/gwjumper/a2m35u/zofDJI_20240503135340_0007_V.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=ea6fb7bedab7b83e1a04df981a5007515c7c75803ba5e07bb010777f05a7304a",
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/gwjumper/a2m35u/vj2DJI_20240503135340_0007_T.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=e62708031ef91371f5885642f67dd6f344ae1a731396b11357fe5732f7b8ea6a"
+                            ],
+                            "TempValues": {
+                                "sp1": "32.20°C",
+                                "sp2": "32.40°C",
+                                "sp3": "34.10°C"
+                            },
+                            "CommentType": "Comments",
+                            "Zoomimage": [],
+                            "pointid": ""
+                        }
+                    },
+                    "anticlimb": {
+                        "1sgxLE": {
+                            "Name": "Anti Climb Fence 1",
+                            "isDefect": false,
+                            "Defects": [],
+                            "Comments": "",
+                            "Criticality": "",
+                            "Location": {
+                                "Circuit": "",
+                                "Phase": "",
+                                "Other": "",
+                                "Side": "",
+                                "ConductorCount": ""
+                            },
+                            "Resolved": {
+                                "Isresolved": true,
+                                "Images": ["Normal.png"],
+                                "ClientRemarks": {}
+                            },
+                            "WorkStatusAndQC": {
+                                "CreatedBy": "narmadha@lesoko.in",
+                                "CreatedDate": "2024-05-30 09:07:48.095341+00:00",
+                                "Updatedby": "narmadha@lesoko.in",
+                                "LastupdatedDate": "2024-05-30 09:15:49.427991+00:00",
+                                "QCby": "",
+                                "QCDate": "",
+                                "Status": "Yet To Start",
+                                "workRemarks": ""
+                            },
+                            "IR": null,
+                            "RGB": [
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/anticlimb/1sgxLE/wheDJI_20240503135844_0047_V.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=a2c4c6914da0d5b9165b9e0239515b1002f6a47ad6890a676c086ecbb484db2a"
+                            ],
+                            "TempValues": null,
+                            "CommentType": "We are identified and resolved the defects",
+                            "Zoomimage": ["Normal.png"],
+                            "pointid": ""
+                        }
+                    },
+                    "insulator": {
+                        "oeVhEU": {
+                            "Name": "Insulator 1",
+                            "isDefect": false,
+                            "Defects": [],
+                            "Comments": "",
+                            "Criticality": "",
+                            "Location": {
+                                "Circuit": "",
+                                "Phase": "",
+                                "Other": "",
+                                "Side": "",
+                                "ConductorCount": ""
+                            },
+                            "Resolved": {
+                                "Isresolved": false,
+                                "Images": [],
+                                "ClientRemarks": {}
+                            },
+                            "WorkStatusAndQC": {
+                                "CreatedBy": "narmadha@lesoko.in",
+                                "CreatedDate": "2024-05-30 09:08:18.329054+00:00",
+                                "Updatedby": "narmadha@lesoko.in",
+                                "LastupdatedDate": "2024-05-30 12:08:58.647601+00:00",
+                                "QCby": "",
+                                "QCDate": "",
+                                "Status": "Yet To Start",
+                                "workRemarks": ""
+                            },
+                            "IR": [],
+                            "RGB": [
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/insulator/oeVhEU/2xLDJI_20240503135548_0018_V.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=f45ab09dafd46c8f6ff7b7abe6eb1c1e79413aab44a7de86f6c5fda3c9c0f41a",
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/insulator/oeVhEU/h9vDJI_20240503135548_0018_T.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=c786f7d7aac9a8e9e45d6b7424813acaf42b44e72feff655da7ce6b6ef60c6d7"
+                            ],
+                            "TempValues": {
+                                "avg": "44.00°C",
+                                "max": "45.20°C",
+                                "min": "43.30°C"
+                            },
+                            "CommentType": "Comments",
+                            "Zoomimage": [],
+                            "pointid": ""
+                        },
+                        "tiA0Ao": {
+                            "Name": "Insulator 2",
+                            "isDefect": false,
+                            "Defects": [],
+                            "Comments": "",
+                            "Criticality": "",
+                            "Location": {
+                                "Circuit": "",
+                                "Phase": "",
+                                "Other": "",
+                                "Side": "",
+                                "ConductorCount": ""
+                            },
+                            "Resolved": {
+                                "Isresolved": false,
+                                "Images": [],
+                                "ClientRemarks": {}
+                            },
+                            "WorkStatusAndQC": {
+                                "CreatedBy": "narmadha@lesoko.in",
+                                "CreatedDate": "2024-05-30 09:08:18.329094+00:00",
+                                "Updatedby": "narmadha@lesoko.in",
+                                "LastupdatedDate": "2024-05-30 12:09:21.431981+00:00",
+                                "QCby": "",
+                                "QCDate": "",
+                                "Status": "Yet To Start",
+                                "workRemarks": ""
+                            },
+                            "IR": [],
+                            "RGB": [
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/insulator/tiA0Ao/LuNDJI_20240503135559_0022_V.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=3907f6255b6096eb6fe9b0aeda7976273b9090078794482b026d713321b5a48e",
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/insulator/tiA0Ao/DTRDJI_20240503135559_0022_T.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=b513f4f7cb5925431c3af19a1c26082c14c9350db32908aad079c769f0874bee"
+                            ],
+                            "TempValues": {
+                                "avg": "42.10°C",
+                                "max": "44.30°C",
+                                "min": "41.10°C"
+                            },
+                            "CommentType": "Comments",
+                            "Zoomimage": [],
+                            "pointid": ""
+                        },
+                        "Qb4OOx": {
+                            "Name": "Insulator 3",
+                            "isDefect": false,
+                            "Defects": [],
+                            "Comments": "",
+                            "Criticality": "",
+                            "Location": {
+                                "Circuit": "",
+                                "Phase": "",
+                                "Other": "",
+                                "Side": "",
+                                "ConductorCount": ""
+                            },
+                            "Resolved": {
+                                "Isresolved": false,
+                                "Images": [],
+                                "ClientRemarks": {}
+                            },
+                            "WorkStatusAndQC": {
+                                "CreatedBy": "narmadha@lesoko.in",
+                                "CreatedDate": "2024-05-30 09:08:18.329115+00:00",
+                                "Updatedby": "narmadha@lesoko.in",
+                                "LastupdatedDate": "2024-05-30 12:09:44.959640+00:00",
+                                "QCby": "",
+                                "QCDate": "",
+                                "Status": "Yet To Start",
+                                "workRemarks": ""
+                            },
+                            "IR": [],
+                            "RGB": [
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/insulator/Qb4OOx/gsMDJI_20240503135639_0028_V.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=f0164d5f4c4b5d65f4a60772f0304bb9cc0831588918b487031cbc490b0ad187",
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/insulator/Qb4OOx/mFlDJI_20240503135639_0028_T.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=82d5416bee4be427584814caabf88a0d1f9384334e7cb44e0dd4d18509fa1ff7"
+                            ],
+                            "TempValues": {
+                                "avg": "43.30°C",
+                                "max": "44.40°C",
+                                "min": "42.70°C"
+                            },
+                            "CommentType": "Comments",
+                            "Zoomimage": [],
+                            "pointid": ""
+                        },
+                        "dbR4pT": {
+                            "Name": "Insulator 4",
+                            "isDefect": false,
+                            "Defects": [],
+                            "Comments": "",
+                            "Criticality": "",
+                            "Location": {
+                                "Circuit": "",
+                                "Phase": "",
+                                "Other": "",
+                                "Side": "",
+                                "ConductorCount": ""
+                            },
+                            "Resolved": {
+                                "Isresolved": false,
+                                "Images": [],
+                                "ClientRemarks": {}
+                            },
+                            "WorkStatusAndQC": {
+                                "CreatedBy": "narmadha@lesoko.in",
+                                "CreatedDate": "2024-05-30 09:08:18.329134+00:00",
+                                "Updatedby": "narmadha@lesoko.in",
+                                "LastupdatedDate": "2024-05-30 12:10:02.519475+00:00",
+                                "QCby": "",
+                                "QCDate": "",
+                                "Status": "Yet To Start",
+                                "workRemarks": ""
+                            },
+                            "IR": [],
+                            "RGB": [
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/insulator/dbR4pT/lfuDJI_20240503135651_0032_V.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=f61644d2063df070d8f35669d3d4e80040179cfc12fe6fb81abe48c3a820e266",
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/insulator/dbR4pT/r7pDJI_20240503135651_0032_T.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=caeba0d75a82b37c2ea537aa6ce68be76c3585e9ea733ebc78d0ddd2ca46c2e4"
+                            ],
+                            "TempValues": {
+                                "avg": "42.00°C",
+                                "max": "43.40°C",
+                                "min": "41.10°C"
+                            },
+                            "CommentType": "Comments",
+                            "Zoomimage": [],
+                            "pointid": ""
+                        },
+                        "Ai0JLd": {
+                            "Name": "Insulator 5",
+                            "isDefect": false,
+                            "Defects": [],
+                            "Comments": "",
+                            "Criticality": "",
+                            "Location": {
+                                "Circuit": "",
+                                "Phase": "",
+                                "Other": "",
+                                "Side": "",
+                                "ConductorCount": ""
+                            },
+                            "Resolved": {
+                                "Isresolved": false,
+                                "Images": [],
+                                "ClientRemarks": {}
+                            },
+                            "WorkStatusAndQC": {
+                                "CreatedBy": "narmadha@lesoko.in",
+                                "CreatedDate": "2024-05-30 09:08:18.329152+00:00",
+                                "Updatedby": "narmadha@lesoko.in",
+                                "LastupdatedDate": "2024-05-30 12:10:21.929912+00:00",
+                                "QCby": "",
+                                "QCDate": "",
+                                "Status": "Yet To Start",
+                                "workRemarks": ""
+                            },
+                            "IR": [],
+                            "RGB": [
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/insulator/Ai0JLd/0wmDJI_20240503135755_0039_V.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=a77e43a379b8feeee1f3081f1728267bb479f71a98102504e5fffa1651debc97",
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/insulator/Ai0JLd/XpCDJI_20240503135755_0039_T.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=1e7e026804c7657473afa0d3e7132765b37644b65d4185802d0ecd2e871dbc95"
+                            ],
+                            "TempValues": {
+                                "avg": "45.70°C",
+                                "max": "47.00°C",
+                                "min": "44.70°C"
+                            },
+                            "CommentType": "Comments",
+                            "Zoomimage": [],
+                            "pointid": ""
+                        },
+                        "u057og": {
+                            "Name": "Insulator 6",
+                            "isDefect": false,
+                            "Defects": [],
+                            "Comments": "",
+                            "Criticality": "",
+                            "Location": {
+                                "Circuit": "",
+                                "Phase": "",
+                                "Other": "",
+                                "Side": "",
+                                "ConductorCount": ""
+                            },
+                            "Resolved": {
+                                "Isresolved": false,
+                                "Images": [],
+                                "ClientRemarks": {}
+                            },
+                            "WorkStatusAndQC": {
+                                "CreatedBy": "narmadha@lesoko.in",
+                                "CreatedDate": "2024-05-30 09:08:18.329170+00:00",
+                                "Updatedby": "narmadha@lesoko.in",
+                                "LastupdatedDate": "2024-05-30 12:10:40.739437+00:00",
+                                "QCby": "",
+                                "QCDate": "",
+                                "Status": "Yet To Start",
+                                "workRemarks": ""
+                            },
+                            "IR": [],
+                            "RGB": [
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/insulator/u057og/aD8DJI_20240503135807_0043_V.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=31c73763aad266d6dde3a2f501cd5f6c423da625f3e2481eec342b70356d1fbd",
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/insulator/u057og/5LJDJI_20240503135807_0043_T.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=1aeb9f5cdf8293b914df95f4557e3bfb438cebd194859a3186029ef3758c9299"
+                            ],
+                            "TempValues": {
+                                "avg": "44.10°C",
+                                "max": "45.70°C",
+                                "min": "43.20°C"
+                            },
+                            "CommentType": "Comments",
+                            "Zoomimage": [],
+                            "pointid": ""
+                        }
+                    },
+                    "vibrationdamper": {
+                        "oIn1Mw": {
+                            "Name": "Vibration Damper 1",
+                            "isDefect": false,
+                            "Defects": [],
+                            "Comments": "",
+                            "Criticality": "",
+                            "Location": {
+                                "Circuit": "",
+                                "Phase": "",
+                                "Other": "",
+                                "Side": "",
+                                "ConductorCount": ""
+                            },
+                            "Resolved": {
+                                "Isresolved": false,
+                                "Images": [],
+                                "ClientRemarks": {}
+                            },
+                            "WorkStatusAndQC": {
+                                "CreatedBy": "narmadha@lesoko.in",
+                                "CreatedDate": "2024-05-30 09:08:25.071051+00:00",
+                                "Updatedby": "narmadha@lesoko.in",
+                                "LastupdatedDate": "2024-05-30 09:14:34.415543+00:00",
+                                "QCby": "",
+                                "QCDate": "",
+                                "Status": "Yet To Start",
+                                "workRemarks": ""
+                            },
+                            "IR": [],
+                            "RGB": [
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/vibrationdamper/oIn1Mw/TMWDJI_20240503135504_0013_V.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=a147f53228055b4a4ed2b25311fb193e8086c4496a2308dc5703ac1d3b6aba65"
+                            ],
+                            "TempValues": {
+                                "avg": "",
+                                "max": "",
+                                "min": ""
+                            },
+                            "CommentType": "Comments",
+                            "Zoomimage": [],
+                            "pointid": ""
+                        },
+                        "CDXaBE": {
+                            "Name": "Vibration Damper 2",
+                            "isDefect": false,
+                            "Defects": [],
+                            "Comments": "",
+                            "Criticality": "",
+                            "Location": {
+                                "Circuit": "",
+                                "Phase": "",
+                                "Other": "",
+                                "Side": "",
+                                "ConductorCount": ""
+                            },
+                            "Resolved": {
+                                "Isresolved": false,
+                                "Images": [],
+                                "ClientRemarks": {}
+                            },
+                            "WorkStatusAndQC": {
+                                "CreatedBy": "narmadha@lesoko.in",
+                                "CreatedDate": "2024-05-30 09:08:25.071089+00:00",
+                                "Updatedby": "narmadha@lesoko.in",
+                                "LastupdatedDate": "2024-05-30 09:14:55.087340+00:00",
+                                "QCby": "",
+                                "QCDate": "",
+                                "Status": "Yet To Start",
+                                "workRemarks": ""
+                            },
+                            "IR": [],
+                            "RGB": [
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/vibrationdamper/CDXaBE/RbzDJI_20240503135511_0014_V.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=808c12a2b406d6b57b460ab41d17c2ae98eb6ea8c5354f3ef6d688993b8167f5"
+                            ],
+                            "TempValues": {
+                                "avg": "",
+                                "max": "",
+                                "min": ""
+                            },
+                            "CommentType": "Comments",
+                            "Zoomimage": [],
+                            "pointid": ""
+                        },
+                        "yBwFRX": {
+                            "Name": "Vibration Damper 3",
+                            "isDefect": false,
+                            "Defects": [],
+                            "Comments": "",
+                            "Criticality": "",
+                            "Location": {
+                                "Circuit": "",
+                                "Phase": "",
+                                "Other": "",
+                                "Side": "",
+                                "ConductorCount": ""
+                            },
+                            "Resolved": {
+                                "Isresolved": false,
+                                "Images": [],
+                                "ClientRemarks": {}
+                            },
+                            "WorkStatusAndQC": {
+                                "CreatedBy": "narmadha@lesoko.in",
+                                "CreatedDate": "2024-05-30 09:08:25.071110+00:00",
+                                "Updatedby": "narmadha@lesoko.in",
+                                "LastupdatedDate": "2024-05-30 09:15:01.757980+00:00",
+                                "QCby": "",
+                                "QCDate": "",
+                                "Status": "Yet To Start",
+                                "workRemarks": ""
+                            },
+                            "IR": [],
+                            "RGB": [
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/vibrationdamper/yBwFRX/qXmDJI_20240503135536_0016_V.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=b5580845c36602adf5096e6154fd7220228a60bca0ecf91b4cae21fab0847efc"
+                            ],
+                            "TempValues": {
+                                "avg": "",
+                                "max": "",
+                                "min": ""
+                            },
+                            "CommentType": "Comments",
+                            "Zoomimage": [],
+                            "pointid": ""
+                        },
+                        "qLyx7Q": {
+                            "Name": "Vibration Damper 4",
+                            "isDefect": false,
+                            "Defects": [],
+                            "Comments": "",
+                            "Criticality": "",
+                            "Location": {
+                                "Circuit": "",
+                                "Phase": "",
+                                "Other": "",
+                                "Side": "",
+                                "ConductorCount": ""
+                            },
+                            "Resolved": {
+                                "Isresolved": false,
+                                "Images": [],
+                                "ClientRemarks": {}
+                            },
+                            "WorkStatusAndQC": {
+                                "CreatedBy": "narmadha@lesoko.in",
+                                "CreatedDate": "2024-05-30 09:08:25.071128+00:00",
+                                "Updatedby": "narmadha@lesoko.in",
+                                "LastupdatedDate": "2024-05-30 09:15:08.589100+00:00",
+                                "QCby": "",
+                                "QCDate": "",
+                                "Status": "Yet To Start",
+                                "workRemarks": ""
+                            },
+                            "IR": [],
+                            "RGB": [
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/vibrationdamper/qLyx7Q/ja1DJI_20240503135611_0024_V.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=dfa2e3f1e1e79ea1c475cd5e7171ef1544bb4eac23a3b8d44ba39890f6bee3b8"
+                            ],
+                            "TempValues": {
+                                "avg": "",
+                                "max": "",
+                                "min": ""
+                            },
+                            "CommentType": "Comments",
+                            "Zoomimage": [],
+                            "pointid": ""
+                        },
+                        "BiU8KW": {
+                            "Name": "Vibration Damper 5",
+                            "isDefect": false,
+                            "Defects": [],
+                            "Comments": "",
+                            "Criticality": "",
+                            "Location": {
+                                "Circuit": "",
+                                "Phase": "",
+                                "Other": "",
+                                "Side": "",
+                                "ConductorCount": ""
+                            },
+                            "Resolved": {
+                                "Isresolved": false,
+                                "Images": [],
+                                "ClientRemarks": {}
+                            },
+                            "WorkStatusAndQC": {
+                                "CreatedBy": "narmadha@lesoko.in",
+                                "CreatedDate": "2024-05-30 09:08:25.071147+00:00",
+                                "Updatedby": "narmadha@lesoko.in",
+                                "LastupdatedDate": "2024-05-30 09:15:14.604573+00:00",
+                                "QCby": "",
+                                "QCDate": "",
+                                "Status": "Yet To Start",
+                                "workRemarks": ""
+                            },
+                            "IR": [],
+                            "RGB": [
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/vibrationdamper/BiU8KW/WujDJI_20240503135629_0026_V.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=1cfc0bfdf0ac8f8b84f9f4c8d650e66c40312addf1676d90b1cd7f34594cf28a"
+                            ],
+                            "TempValues": {
+                                "avg": "",
+                                "max": "",
+                                "min": ""
+                            },
+                            "CommentType": "Comments",
+                            "Zoomimage": [],
+                            "pointid": ""
+                        },
+                        "BOHNC6": {
+                            "Name": "Vibration Damper 6",
+                            "isDefect": false,
+                            "Defects": [],
+                            "Comments": "",
+                            "Criticality": "",
+                            "Location": {
+                                "Circuit": "",
+                                "Phase": "",
+                                "Other": "",
+                                "Side": "",
+                                "ConductorCount": ""
+                            },
+                            "Resolved": {
+                                "Isresolved": false,
+                                "Images": [],
+                                "ClientRemarks": {}
+                            },
+                            "WorkStatusAndQC": {
+                                "CreatedBy": "narmadha@lesoko.in",
+                                "CreatedDate": "2024-05-30 09:08:25.071166+00:00",
+                                "Updatedby": "narmadha@lesoko.in",
+                                "LastupdatedDate": "2024-05-30 09:15:21.406327+00:00",
+                                "QCby": "",
+                                "QCDate": "",
+                                "Status": "Yet To Start",
+                                "workRemarks": ""
+                            },
+                            "IR": [],
+                            "RGB": [
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/vibrationdamper/BOHNC6/sZqDJI_20240503135657_0034_V.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=45aa387f4b8c4073841169d956c090f702ee0549d995e205d96151c682595c12"
+                            ],
+                            "TempValues": {
+                                "avg": "",
+                                "max": "",
+                                "min": ""
+                            },
+                            "CommentType": "Comments",
+                            "Zoomimage": [],
+                            "pointid": ""
+                        },
+                        "mBI9cS": {
+                            "Name": "Vibration Damper 7",
+                            "isDefect": false,
+                            "Defects": [],
+                            "Comments": "",
+                            "Criticality": "",
+                            "Location": {
+                                "Circuit": "",
+                                "Phase": "",
+                                "Other": "",
+                                "Side": "",
+                                "ConductorCount": ""
+                            },
+                            "Resolved": {
+                                "Isresolved": false,
+                                "Images": [],
+                                "ClientRemarks": {}
+                            },
+                            "WorkStatusAndQC": {
+                                "CreatedBy": "narmadha@lesoko.in",
+                                "CreatedDate": "2024-05-30 09:08:25.071184+00:00",
+                                "Updatedby": "narmadha@lesoko.in",
+                                "LastupdatedDate": "2024-05-30 09:15:33.222415+00:00",
+                                "QCby": "",
+                                "QCDate": "",
+                                "Status": "Yet To Start",
+                                "workRemarks": ""
+                            },
+                            "IR": [],
+                            "RGB": [
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/vibrationdamper/mBI9cS/AOJDJI_20240503135734_0037_V.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=d5d83012dbdf9b6a592869b28572759c48157b28e0276722bb28a728d377ba7c"
+                            ],
+                            "TempValues": {
+                                "avg": "",
+                                "max": "",
+                                "min": ""
+                            },
+                            "CommentType": "Comments",
+                            "Zoomimage": [],
+                            "pointid": ""
+                        },
+                        "0qqfCh": {
+                            "Name": "Vibration Damper 8",
+                            "isDefect": false,
+                            "Defects": [],
+                            "Comments": "",
+                            "Criticality": "",
+                            "Location": {
+                                "Circuit": "",
+                                "Phase": "",
+                                "Other": "",
+                                "Side": "",
+                                "ConductorCount": ""
+                            },
+                            "Resolved": {
+                                "Isresolved": false,
+                                "Images": [],
+                                "ClientRemarks": {}
+                            },
+                            "WorkStatusAndQC": {
+                                "CreatedBy": "narmadha@lesoko.in",
+                                "CreatedDate": "2024-05-30 09:08:25.071201+00:00",
+                                "Updatedby": "narmadha@lesoko.in",
+                                "LastupdatedDate": "2024-05-30 09:15:37.717155+00:00",
+                                "QCby": "",
+                                "QCDate": "",
+                                "Status": "Yet To Start",
+                                "workRemarks": ""
+                            },
+                            "IR": [],
+                            "RGB": [
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/vibrationdamper/0qqfCh/4VzDJI_20240503135828_0046_V.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=0c50a9734b88c92879dda72f80874d8b972147d221a503f31621aa3e92eb4c80"
+                            ],
+                            "TempValues": {
+                                "avg": "",
+                                "max": "",
+                                "min": ""
+                            },
+                            "CommentType": "Comments",
+                            "Zoomimage": [],
+                            "pointid": ""
+                        }
+                    },
+                    "foundationleg": {
+                        "zrAtPG": {
+                            "Name": "Foundation Leg 1",
+                            "isDefect": false,
+                            "Defects": [],
+                            "Comments": "",
+                            "Criticality": "",
+                            "Location": {
+                                "Circuit": "",
+                                "Phase": "",
+                                "Other": "",
+                                "Side": "",
+                                "ConductorCount": ""
+                            },
+                            "Resolved": {
+                                "Isresolved": false,
+                                "Images": [],
+                                "ClientRemarks": {}
+                            },
+                            "WorkStatusAndQC": {
+                                "CreatedBy": "narmadha@lesoko.in",
+                                "CreatedDate": "2024-05-30 09:08:32.549735+00:00",
+                                "Updatedby": "narmadha@lesoko.in",
+                                "LastupdatedDate": "2024-05-30 09:14:00.368627+00:00",
+                                "QCby": "",
+                                "QCDate": "",
+                                "Status": "Yet To Start",
+                                "workRemarks": ""
+                            },
+                            "IR": null,
+                            "RGB": [
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/foundationleg/zrAtPG/VpfDJI_20240503135857_0048_V.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=68c1362dbe44ecafed6ae65d5b390948aafa6351db055a43bea0ceb35f7ad2ff"
+                            ],
+                            "TempValues": null,
+                            "CommentType": "Comments",
+                            "Zoomimage": [],
+                            "pointid": ""
+                        },
+                        "Js00Wy": {
+                            "Name": "Foundation Leg 2",
+                            "isDefect": false,
+                            "Defects": [],
+                            "Comments": "",
+                            "Criticality": "",
+                            "Location": {
+                                "Circuit": "",
+                                "Phase": "",
+                                "Other": "",
+                                "Side": "",
+                                "ConductorCount": ""
+                            },
+                            "Resolved": {
+                                "Isresolved": false,
+                                "Images": [],
+                                "ClientRemarks": {}
+                            },
+                            "WorkStatusAndQC": {
+                                "CreatedBy": "narmadha@lesoko.in",
+                                "CreatedDate": "2024-05-30 09:08:32.549771+00:00",
+                                "Updatedby": "narmadha@lesoko.in",
+                                "LastupdatedDate": "2024-05-30 09:14:04.825426+00:00",
+                                "QCby": "",
+                                "QCDate": "",
+                                "Status": "Yet To Start",
+                                "workRemarks": ""
+                            },
+                            "IR": null,
+                            "RGB": [
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/foundationleg/Js00Wy/KhVDJI_20240503135904_0049_V.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=1d576a3c124793faeafcc48ae9de2609b4729ccbed25ef8a9bc295c6e200e42a"
+                            ],
+                            "TempValues": null,
+                            "CommentType": "Comments",
+                            "Zoomimage": [],
+                            "pointid": ""
+                        },
+                        "9o28hK": {
+                            "Name": "Foundation Leg 3",
+                            "isDefect": false,
+                            "Defects": [],
+                            "Comments": "",
+                            "Criticality": "",
+                            "Location": {
+                                "Circuit": "",
+                                "Phase": "",
+                                "Other": "",
+                                "Side": "",
+                                "ConductorCount": ""
+                            },
+                            "Resolved": {
+                                "Isresolved": false,
+                                "Images": [],
+                                "ClientRemarks": {}
+                            },
+                            "WorkStatusAndQC": {
+                                "CreatedBy": "narmadha@lesoko.in",
+                                "CreatedDate": "2024-05-30 09:08:32.549792+00:00",
+                                "Updatedby": "narmadha@lesoko.in",
+                                "LastupdatedDate": "2024-05-30 09:14:19.664351+00:00",
+                                "QCby": "",
+                                "QCDate": "",
+                                "Status": "Yet To Start",
+                                "workRemarks": ""
+                            },
+                            "IR": null,
+                            "RGB": [
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/foundationleg/9o28hK/EqaDJI_20240503140000_0051_V.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=e2bdc3e9ea28f0988a28d7964c750187249aeddfa21f3b18c69510aa06b3afbd"
+                            ],
+                            "TempValues": null,
+                            "CommentType": "Comments",
+                            "Zoomimage": [],
+                            "pointid": ""
+                        },
+                        "W2DfIG": {
+                            "Name": "Foundation Leg 4",
+                            "isDefect": true,
+                            "Defects": [
+                                "Vegetation"
+                            ],
+                            "Comments": "Vegetation cover in foundation leg and this has to be removed.This will help inspection of foundation to ensure healthiness.",
+                            "Criticality": "High",
+                            "Location": {
+                                "Circuit": "",
+                                "Phase": "",
+                                "Other": "",
+                                "Side": "",
+                                "ConductorCount": ""
+                            },
+                            "Resolved": {
+                                "Isresolved": false,
+                                "Images": [],
+                                "ClientRemarks": {}
+                            },
+                            "WorkStatusAndQC": {
+                                "CreatedBy": "narmadha@lesoko.in",
+                                "CreatedDate": "2024-05-30 09:08:32.549809+00:00",
+                                "Updatedby": "bhuvanamoorthy333@gmail.com",
+                                "LastupdatedDate": "2024-06-13 04:36:59.908439+00:00",
+                                "QCby": "",
+                                "QCDate": "",
+                                "Status": "Yet To Start",
+                                "workRemarks": ""
+                            },
+                            "IR": null,
+                            "RGB": [
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/foundationleg/W2DfIG/AigDJI_20240503140009_0052_V.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=4c6b30dbaf2c9f894034c21b48caec5dd999254e10c25ee7e4966e0d63c234ed"
+                            ],
+                            "TempValues": null,
+                            "CommentType": "Comments",
+                            "Zoomimage": [],
+                            "pointid": ""
+                        }
+                    },
+                    "arcinghorn": {
+                        "T2UBNh": {
+                            "Name": "Arcing Horn 1",
+                            "isDefect": false,
+                            "Defects": [],
+                            "Comments": "",
+                            "Criticality": "",
+                            "Location": {
+                                "Circuit": "",
+                                "Phase": "",
+                                "Other": "",
+                                "Side": "",
+                                "ConductorCount": ""
+                            },
+                            "Resolved": {
+                                "Isresolved": false,
+                                "Images": [],
+                                "ClientRemarks": {}
+                            },
+                            "WorkStatusAndQC": {
+                                "CreatedBy": "narmadha@lesoko.in",
+                                "CreatedDate": "2024-05-30 09:08:42.579033+00:00",
+                                "Updatedby": "narmadha@lesoko.in",
+                                "LastupdatedDate": "2024-05-30 09:12:24.392076+00:00",
+                                "QCby": "",
+                                "QCDate": "",
+                                "Status": "Yet To Start",
+                                "workRemarks": ""
+                            },
+                            "IR": [],
+                            "RGB": [
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/arcinghorn/T2UBNh/ZjbDJI_20240503135546_0017_V.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=7c79fec63dec2cd71d41396aa29b741bdedbc8845e220ed796e434c1ead1c00b"
+                            ],
+                            "TempValues": {
+                                "avg": "",
+                                "max": "",
+                                "min": ""
+                            },
+                            "CommentType": "Comments",
+                            "Zoomimage": [],
+                            "pointid": ""
+                        },
+                        "egsJEP": {
+                            "Name": "Arcing Horn 2",
+                            "isDefect": false,
+                            "Defects": [],
+                            "Comments": "",
+                            "Criticality": "",
+                            "Location": {
+                                "Circuit": "",
+                                "Phase": "",
+                                "Other": "",
+                                "Side": "",
+                                "ConductorCount": ""
+                            },
+                            "Resolved": {
+                                "Isresolved": false,
+                                "Images": [],
+                                "ClientRemarks": {}
+                            },
+                            "WorkStatusAndQC": {
+                                "CreatedBy": "narmadha@lesoko.in",
+                                "CreatedDate": "2024-05-30 09:08:42.579073+00:00",
+                                "Updatedby": "narmadha@lesoko.in",
+                                "LastupdatedDate": "2024-05-30 09:12:29.382375+00:00",
+                                "QCby": "",
+                                "QCDate": "",
+                                "Status": "Yet To Start",
+                                "workRemarks": ""
+                            },
+                            "IR": [],
+                            "RGB": [
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/arcinghorn/egsJEP/jaxDJI_20240503135551_0019_V.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=d18bfcd94b15230579251e911ed3afae7420684e36e1117fd9f6c0017b31ec18"
+                            ],
+                            "TempValues": {
+                                "avg": "",
+                                "max": "",
+                                "min": ""
+                            },
+                            "CommentType": "Comments",
+                            "Zoomimage": [],
+                            "pointid": ""
+                        },
+                        "fcKXJN": {
+                            "Name": "Arcing Horn 3",
+                            "isDefect": false,
+                            "Defects": [],
+                            "Comments": "",
+                            "Criticality": "",
+                            "Location": {
+                                "Circuit": "",
+                                "Phase": "",
+                                "Other": "",
+                                "Side": "",
+                                "ConductorCount": ""
+                            },
+                            "Resolved": {
+                                "Isresolved": false,
+                                "Images": [],
+                                "ClientRemarks": {}
+                            },
+                            "WorkStatusAndQC": {
+                                "CreatedBy": "narmadha@lesoko.in",
+                                "CreatedDate": "2024-05-30 09:08:42.579224+00:00",
+                                "Updatedby": "narmadha@lesoko.in",
+                                "LastupdatedDate": "2024-05-30 09:12:34.420689+00:00",
+                                "QCby": "",
+                                "QCDate": "",
+                                "Status": "Yet To Start",
+                                "workRemarks": ""
+                            },
+                            "IR": [],
+                            "RGB": [
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/arcinghorn/fcKXJN/4zEDJI_20240503135557_0021_V.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=24c51857b30a2b37526cb077bcdef79a99b060e42e70a6741a6d5d7f69d165cc"
+                            ],
+                            "TempValues": {
+                                "avg": "",
+                                "max": "",
+                                "min": ""
+                            },
+                            "CommentType": "Comments",
+                            "Zoomimage": [],
+                            "pointid": ""
+                        },
+                        "R3cMYm": {
+                            "Name": "Arcing Horn 4",
+                            "isDefect": false,
+                            "Defects": [],
+                            "Comments": "",
+                            "Criticality": "",
+                            "Location": {
+                                "Circuit": "",
+                                "Phase": "",
+                                "Other": "",
+                                "Side": "",
+                                "ConductorCount": ""
+                            },
+                            "Resolved": {
+                                "Isresolved": false,
+                                "Images": [],
+                                "ClientRemarks": {}
+                            },
+                            "WorkStatusAndQC": {
+                                "CreatedBy": "narmadha@lesoko.in",
+                                "CreatedDate": "2024-05-30 09:08:42.579246+00:00",
+                                "Updatedby": "narmadha@lesoko.in",
+                                "LastupdatedDate": "2024-05-30 09:12:39.531628+00:00",
+                                "QCby": "",
+                                "QCDate": "",
+                                "Status": "Yet To Start",
+                                "workRemarks": ""
+                            },
+                            "IR": [],
+                            "RGB": [
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/arcinghorn/R3cMYm/DlxDJI_20240503135605_0023_V.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=09106ef689c02d3e889fb1e36ebc952a4f7b42945cf828f19802f825a888dd94"
+                            ],
+                            "TempValues": {
+                                "avg": "",
+                                "max": "",
+                                "min": ""
+                            },
+                            "CommentType": "Comments",
+                            "Zoomimage": [],
+                            "pointid": ""
+                        },
+                        "o3rit4": {
+                            "Name": "Arcing Horn 5",
+                            "isDefect": false,
+                            "Defects": [],
+                            "Comments": "",
+                            "Criticality": "",
+                            "Location": {
+                                "Circuit": "",
+                                "Phase": "",
+                                "Other": "",
+                                "Side": "",
+                                "ConductorCount": ""
+                            },
+                            "Resolved": {
+                                "Isresolved": false,
+                                "Images": [],
+                                "ClientRemarks": {}
+                            },
+                            "WorkStatusAndQC": {
+                                "CreatedBy": "narmadha@lesoko.in",
+                                "CreatedDate": "2024-05-30 09:08:42.579264+00:00",
+                                "Updatedby": "narmadha@lesoko.in",
+                                "LastupdatedDate": "2024-05-30 09:12:44.675629+00:00",
+                                "QCby": "",
+                                "QCDate": "",
+                                "Status": "Yet To Start",
+                                "workRemarks": ""
+                            },
+                            "IR": [],
+                            "RGB": [
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/arcinghorn/o3rit4/JBJDJI_20240503135637_0027_V.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=ba18ea510d72fa095294eee72cba27881730f4da63812fca8d7d668ca97723ff"
+                            ],
+                            "TempValues": {
+                                "avg": "",
+                                "max": "",
+                                "min": ""
+                            },
+                            "CommentType": "Comments",
+                            "Zoomimage": [],
+                            "pointid": ""
+                        },
+                        "QA1EGA": {
+                            "Name": "Arcing Horn 6",
+                            "isDefect": false,
+                            "Defects": [],
+                            "Comments": "",
+                            "Criticality": "",
+                            "Location": {
+                                "Circuit": "",
+                                "Phase": "",
+                                "Other": "",
+                                "Side": "",
+                                "ConductorCount": ""
+                            },
+                            "Resolved": {
+                                "Isresolved": false,
+                                "Images": [],
+                                "ClientRemarks": {}
+                            },
+                            "WorkStatusAndQC": {
+                                "CreatedBy": "narmadha@lesoko.in",
+                                "CreatedDate": "2024-05-30 09:08:42.579282+00:00",
+                                "Updatedby": "narmadha@lesoko.in",
+                                "LastupdatedDate": "2024-05-30 09:12:50.078436+00:00",
+                                "QCby": "",
+                                "QCDate": "",
+                                "Status": "Yet To Start",
+                                "workRemarks": ""
+                            },
+                            "IR": [],
+                            "RGB": [
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/arcinghorn/QA1EGA/S3TDJI_20240503135643_0029_V.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=e437097ad609a53e36a84cc631efc4598c0bc732e0dbe168a606edd7c080db70"
+                            ],
+                            "TempValues": {
+                                "avg": "",
+                                "max": "",
+                                "min": ""
+                            },
+                            "CommentType": "Comments",
+                            "Zoomimage": [],
+                            "pointid": ""
+                        },
+                        "PpyWNI": {
+                            "Name": "Arcing Horn 7",
+                            "isDefect": false,
+                            "Defects": [],
+                            "Comments": "",
+                            "Criticality": "",
+                            "Location": {
+                                "Circuit": "",
+                                "Phase": "",
+                                "Other": "",
+                                "Side": "",
+                                "ConductorCount": ""
+                            },
+                            "Resolved": {
+                                "Isresolved": false,
+                                "Images": [],
+                                "ClientRemarks": {}
+                            },
+                            "WorkStatusAndQC": {
+                                "CreatedBy": "narmadha@lesoko.in",
+                                "CreatedDate": "2024-05-30 09:08:42.579300+00:00",
+                                "Updatedby": "narmadha@lesoko.in",
+                                "LastupdatedDate": "2024-05-30 09:12:56.561101+00:00",
+                                "QCby": "",
+                                "QCDate": "",
+                                "Status": "Yet To Start",
+                                "workRemarks": ""
+                            },
+                            "IR": [],
+                            "RGB": [
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/arcinghorn/PpyWNI/jwNDJI_20240503135648_0031_V.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=145f8679528b844fffbab523316e116a3e45568dc6309103de6d43ecfd572f5a"
+                            ],
+                            "TempValues": {
+                                "avg": "",
+                                "max": "",
+                                "min": ""
+                            },
+                            "CommentType": "Comments",
+                            "Zoomimage": [],
+                            "pointid": ""
+                        },
+                        "r2rlnB": {
+                            "Name": "Arcing Horn 8",
+                            "isDefect": false,
+                            "Defects": [],
+                            "Comments": "",
+                            "Criticality": "",
+                            "Location": {
+                                "Circuit": "",
+                                "Phase": "",
+                                "Other": "",
+                                "Side": "",
+                                "ConductorCount": ""
+                            },
+                            "Resolved": {
+                                "Isresolved": false,
+                                "Images": [],
+                                "ClientRemarks": {}
+                            },
+                            "WorkStatusAndQC": {
+                                "CreatedBy": "narmadha@lesoko.in",
+                                "CreatedDate": "2024-05-30 09:08:42.579318+00:00",
+                                "Updatedby": "narmadha@lesoko.in",
+                                "LastupdatedDate": "2024-05-30 09:13:02.224104+00:00",
+                                "QCby": "",
+                                "QCDate": "",
+                                "Status": "Yet To Start",
+                                "workRemarks": ""
+                            },
+                            "IR": [],
+                            "RGB": [
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/arcinghorn/r2rlnB/x9SDJI_20240503135653_0033_V.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=4e2739737947cc36ac402ef8fcb8bc82b79ab611208e977992c8211a2cdd115a"
+                            ],
+                            "TempValues": {
+                                "avg": "",
+                                "max": "",
+                                "min": ""
+                            },
+                            "CommentType": "Comments",
+                            "Zoomimage": [],
+                            "pointid": ""
+                        },
+                        "tOy6cr": {
+                            "Name": "Arcing Horn 9",
+                            "isDefect": false,
+                            "Defects": [],
+                            "Comments": "",
+                            "Criticality": "",
+                            "Location": {
+                                "Circuit": "",
+                                "Phase": "",
+                                "Other": "",
+                                "Side": "",
+                                "ConductorCount": ""
+                            },
+                            "Resolved": {
+                                "Isresolved": false,
+                                "Images": [],
+                                "ClientRemarks": {}
+                            },
+                            "WorkStatusAndQC": {
+                                "CreatedBy": "narmadha@lesoko.in",
+                                "CreatedDate": "2024-05-30 09:08:42.579336+00:00",
+                                "Updatedby": "narmadha@lesoko.in",
+                                "LastupdatedDate": "2024-05-30 09:13:09.315142+00:00",
+                                "QCby": "",
+                                "QCDate": "",
+                                "Status": "Yet To Start",
+                                "workRemarks": ""
+                            },
+                            "IR": [],
+                            "RGB": [
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/arcinghorn/tOy6cr/sz5DJI_20240503135751_0038_V.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=b979d357b696334e81c15be704b5a158e54bf9ed824c16254834965d6d972ce7"
+                            ],
+                            "TempValues": {
+                                "avg": "",
+                                "max": "",
+                                "min": ""
+                            },
+                            "CommentType": "Comments",
+                            "Zoomimage": [],
+                            "pointid": ""
+                        },
+                        "EcjYeA": {
+                            "Name": "Arcing Horn 10",
+                            "isDefect": false,
+                            "Defects": [],
+                            "Comments": "",
+                            "Criticality": "",
+                            "Location": {
+                                "Circuit": "",
+                                "Phase": "",
+                                "Other": "",
+                                "Side": "",
+                                "ConductorCount": ""
+                            },
+                            "Resolved": {
+                                "Isresolved": false,
+                                "Images": [],
+                                "ClientRemarks": {}
+                            },
+                            "WorkStatusAndQC": {
+                                "CreatedBy": "narmadha@lesoko.in",
+                                "CreatedDate": "2024-05-30 09:08:42.579354+00:00",
+                                "Updatedby": "narmadha@lesoko.in",
+                                "LastupdatedDate": "2024-05-30 09:13:17.665718+00:00",
+                                "QCby": "",
+                                "QCDate": "",
+                                "Status": "Yet To Start",
+                                "workRemarks": ""
+                            },
+                            "IR": [],
+                            "RGB": [
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/arcinghorn/EcjYeA/mE0DJI_20240503135759_0040_V.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042845Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=bc7d0d9e5600e2b92a0319932c9329ad78e0558abea110428d75663ad2cf1a9e"
+                            ],
+                            "TempValues": {
+                                "avg": "",
+                                "max": "",
+                                "min": ""
+                            },
+                            "CommentType": "Comments",
+                            "Zoomimage": [],
+                            "pointid": ""
+                        },
+                        "H1twrt": {
+                            "Name": "Arcing Horn 11",
+                            "isDefect": false,
+                            "Defects": [],
+                            "Comments": "",
+                            "Criticality": "",
+                            "Location": {
+                                "Circuit": "",
+                                "Phase": "",
+                                "Other": "",
+                                "Side": "",
+                                "ConductorCount": ""
+                            },
+                            "Resolved": {
+                                "Isresolved": false,
+                                "Images": [],
+                                "ClientRemarks": {}
+                            },
+                            "WorkStatusAndQC": {
+                                "CreatedBy": "narmadha@lesoko.in",
+                                "CreatedDate": "2024-05-30 09:08:42.579372+00:00",
+                                "Updatedby": "narmadha@lesoko.in",
+                                "LastupdatedDate": "2024-05-30 09:13:24.855493+00:00",
+                                "QCby": "",
+                                "QCDate": "",
+                                "Status": "Yet To Start",
+                                "workRemarks": ""
+                            },
+                            "IR": [],
+                            "RGB": [
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/arcinghorn/H1twrt/WGRDJI_20240503135805_0042_V.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042846Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=3d1c2c58e7aa6e6618058ab349a0ad53261291884bff482af929654958fbfa75"
+                            ],
+                            "TempValues": {
+                                "avg": "",
+                                "max": "",
+                                "min": ""
+                            },
+                            "CommentType": "Comments",
+                            "Zoomimage": [],
+                            "pointid": ""
+                        },
+                        "6JhDtR": {
+                            "Name": "Arcing Horn 12",
+                            "isDefect": false,
+                            "Defects": [],
+                            "Comments": "",
+                            "Criticality": "",
+                            "Location": {
+                                "Circuit": "",
+                                "Phase": "",
+                                "Other": "",
+                                "Side": "",
+                                "ConductorCount": ""
+                            },
+                            "Resolved": {
+                                "Isresolved": false,
+                                "Images": [],
+                                "ClientRemarks": {}
+                            },
+                            "WorkStatusAndQC": {
+                                "CreatedBy": "narmadha@lesoko.in",
+                                "CreatedDate": "2024-05-30 09:08:42.579389+00:00",
+                                "Updatedby": "narmadha@lesoko.in",
+                                "LastupdatedDate": "2024-05-30 09:13:31.121204+00:00",
+                                "QCby": "",
+                                "QCDate": "",
+                                "Status": "Yet To Start",
+                                "workRemarks": ""
+                            },
+                            "IR": [],
+                            "RGB": [
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/arcinghorn/6JhDtR/umnDJI_20240503135817_0044_V.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042846Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=fb9bfab380726a2c27082324acd1974e11a2d10067d43663516586cf2e22cdae"
+                            ],
+                            "TempValues": {
+                                "avg": "",
+                                "max": "",
+                                "min": ""
+                            },
+                            "CommentType": "Comments",
+                            "Zoomimage": [],
+                            "pointid": ""
+                        }
+                    },
+                    "dangersign": {
+                        "4KZBdm": {
+                            "Name": "Danger Sign 1",
+                            "isDefect": false,
+                            "Defects": [],
+                            "Comments": "",
+                            "Criticality": "",
+                            "Location": {
+                                "Circuit": "",
+                                "Phase": "",
+                                "Other": "",
+                                "Side": "",
+                                "ConductorCount": ""
+                            },
+                            "Resolved": {
+                                "Isresolved": false,
+                                "Images": [],
+                                "ClientRemarks": {}
+                            },
+                            "WorkStatusAndQC": {
+                                "CreatedBy": "narmadha@lesoko.in",
+                                "CreatedDate": "2024-05-30 09:21:35.463180+00:00",
+                                "Updatedby": "narmadha@lesoko.in",
+                                "LastupdatedDate": "2024-05-30 09:21:49.580689+00:00",
+                                "QCby": "",
+                                "QCDate": "",
+                                "Status": "Yet To Start",
+                                "workRemarks": ""
+                            },
+                            "IR": null,
+                            "RGB": [
+                                "https://dashboardviastoragecontent.s3.amazonaws.com/newdashboard/LES-009-RSA/tline/40/RSA/TL/KOGALI/0524/towerSubcomponentdata/oMNZEq/dangersign/4KZBdm/ZrsDJI_20240503140050_0053_V.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FNMSA3RNATRUY42%2F20240702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T042846Z&X-Amz-Expires=36000&X-Amz-SignedHeaders=host&X-Amz-Signature=21939c4f3a4a044e15b0daaf201166b8c05ce099418b0d8203e475a3ba4291e8"
+                            ],
+                            "TempValues": null,
+                            "CommentType": "Comments",
+                            "Zoomimage": [],
+                            "pointid": ""
+                        }
+                    }
+                }
+            }
+        }}}
