@@ -213,80 +213,173 @@ for mainkey, mainvalue in data.items():
                                 top_position += height + Inches(0.2)  
 
 
-                            zoom_value = len(value_4['Zoomimage'])
-                            if value_4['Resolved']['Isresolved'] == True:
-                               
+                                zoom_value = len(value_4['Zoomimage'])
+                                if value_4['Resolved']['Isresolved'] == True:
+                                
+                                
+                                
+                                    
+                                    if zoom_value == 1:
+
+                                        image_path_left = "normal.png"
+                                        left_image_left = Inches(0.9)
+                                        top_image_left = top_position + Inches(4)  
+                                        width_image_left = Inches(3)
+                                        height_image_left = Inches(2.5)
+                                        slide.shapes.add_picture(image_path_left, left_image_left, top_image_left, width_image_left, height_image_left)
+
+                                        image_path_center = value_4['Zoomimage'][0]
+                                        left_image_center = Inches(4.8)
+                                        top_image_center = Inches(7.1)
+                                        width_image_center = Inches(1.9)
+                                        height_image_center = Inches(1.3)
+                                        slide.shapes.add_picture(image_path_center, left_image_center, top_image_center, width_image_center, height_image_center)
+                                        
+                                        
+                                        left = Inches(0.5)
+                                        top = Inches(10)
+                                        width = Inches(6)
+                                        height = Inches(1)
+                                        text_box = slide.shapes.add_textbox(left, top, width, height)
+                                        text_frame = text_box.text_frame
+                                        text_frame.text = value_4['CommentType']
+                                        text_box.width = Inches(7)
+                                        text_box.height = Inches(1.5)
+                                        font = text_frame.paragraphs[0].runs[0].font
+                                        font.name = "Calibri"
+                                        font.font_family = "Body"
+                                        font.color.rgb = RGBColor(12, 53, 106)  
+                                        font.bold = True
+
+                                    elif zoom_value == 2:
+                                        
+                                        slide_number += 1
+
+                                        image_path_left = "normal.png"
+                                        left_image_left = Inches(0.9)
+                                        top_image_left = top_position + Inches(4)  
+                                        width_image_left = Inches(3)
+                                        height_image_left = Inches(2.5)
+                                        slide.shapes.add_picture(image_path_left, left_image_left, top_image_left, width_image_left, height_image_left)
+                                    
+                                        
+
+                                        left = Inches(0.5)
+                                        top = Inches(10)
+                                        width = Inches(6)
+                                        height = Inches(1)
+                                        text_box = slide.shapes.add_textbox(left, top, width, height)
+                                        text_frame = text_box.text_frame
+                                        text_frame.text = value_4['CommentType']
+                                        text_box.width = Inches(7)
+                                        text_box.height = Inches(1.5)
+                                        font = text_frame.paragraphs[0].runs[0].font
+                                        font.name = "Calibri"
+                                        font.font_family = "Body"
+                                        font.color.rgb = RGBColor(12, 53, 106)  
+                                        font.bold = True
+                                        
+                                        # Add images in a grid layout
+                                        left_start = Inches(5)
+                                        top_start = Inches(6.2)
+                                        image_width = Inches(1.9)
+                                        image_height = Inches(1.3)
+                                        spacing = Inches(0.25)
+
+                                        for idx, image_path in enumerate(value_4['Zoomimage']):
+                                            col = idx % 1 
+                                            row = idx // 1  
+                                            left = left_start + col * (image_width + spacing)
+                                            top = top_start + row * (image_height + spacing)
+                                            slide.shapes.add_picture(image_path, left, top, image_width, image_height)
+
+                                    elif zoom_value == 3:
+                                        
+                                        slide_number += 1
+
+                                        image_path_left = "normal.png"
+                                        left_image_left = Inches(0.9)
+                                        top_image_left = top_position + Inches(4)  
+                                        width_image_left = Inches(3)
+                                        height_image_left = Inches(2.5)
+                                        slide.shapes.add_picture(image_path_left, left_image_left, top_image_left, width_image_left, height_image_left)
+                                    
+                                        
+
+                                        left = Inches(0.5)
+                                        top = Inches(10)
+                                        width = Inches(6)
+                                        height = Inches(1)
+                                        text_box = slide.shapes.add_textbox(left, top, width, height)
+                                        text_frame = text_box.text_frame
+                                        text_frame.text = value_4['CommentType']
+                                        text_box.width = Inches(7)
+                                        text_box.height = Inches(1.5)
+                                        font = text_frame.paragraphs[0].runs[0].font
+                                        font.name = "Calibri"
+                                        font.font_family = "Body"
+                                        font.color.rgb = RGBColor(12, 53, 106)  
+                                        font.bold = True
+                                        
+                                        # Add images in a grid layout
+                                        left_start = Inches(5)
+                                        top_start = Inches(5.9)
+                                        image_width = Inches(1.8)
+                                        image_height = Inches(1.25)
+                                        spacing = Inches(0.11)
+
+                                        for idx, image_path in enumerate(value_4['Zoomimage']):
+                                            col = idx % 1 
+                                            row = idx // 1  
+                                            left = left_start + col * (image_width + spacing)
+                                            top = top_start + row * (image_height + spacing)
+                                            slide.shapes.add_picture(image_path, left, top, image_width, image_height)
+                                    
+
+
+                                    elif zoom_value == 4:
+                                        
+                                        slide_number += 1
+
+                                        image_path_left = "normal.png"
+                                        left_image_left = Inches(0.9)
+                                        top_image_left = top_position + Inches(4)  
+                                        width_image_left = Inches(3)
+                                        height_image_left = Inches(2.5)
+                                        slide.shapes.add_picture(image_path_left, left_image_left, top_image_left, width_image_left, height_image_left)
+                                    
+                                        
+
+                                        left = Inches(0.5)
+                                        top = Inches(10)
+                                        width = Inches(6)
+                                        height = Inches(1)
+                                        text_box = slide.shapes.add_textbox(left, top, width, height)
+                                        text_frame = text_box.text_frame
+                                        text_frame.text = value_4['CommentType']
+                                        text_box.width = Inches(7)
+                                        text_box.height = Inches(1.5)
+                                        font = text_frame.paragraphs[0].runs[0].font
+                                        font.name = "Calibri"
+                                        font.font_family = "Body"
+                                        font.color.rgb = RGBColor(12, 53, 106)  
+                                        font.bold = True
+                                        
+                                        # Add images in a grid layout
+                                        left_start = Inches(5)
+                                        top_start = Inches(5.6)
+                                        image_width = Inches(1.5)
+                                        image_height = Inches(1)
+                                        spacing = Inches(0.11)
+
+                                        for idx, image_path in enumerate(value_4['Zoomimage']):
+                                            col = idx % 1 
+                                            row = idx // 1  
+                                            left = left_start + col * (image_width + spacing)
+                                            top = top_start + row * (image_height + spacing)
+                                            slide.shapes.add_picture(image_path, left, top, image_width, image_height)
                             
-                               
-                                
-                                # Add slides and component information
-                                if zoom_value == 1:
-                                    
-
-                                    
-                                    
-                                    
-                                    # Add image
-                                    image_path_center = value_4['Zoomimage'][0]
-                                    left_image_center = Inches(2.5)
-                                    top_image_center = Inches(5.5)
-                                    width_image_center = Inches(2.5)
-                                    height_image_center = Inches(2.5)
-                                    slide.shapes.add_picture(image_path_center, left_image_center, top_image_center, width_image_center, height_image_center)
-                                    
-                                    
-                                    left = Inches(1.5)
-                                    top = Inches(9.2)
-                                    width = Inches(6)
-                                    height = Inches(1)
-                                    text_box = slide.shapes.add_textbox(left, top, width, height)
-                                    text_frame = text_box.text_frame
-                                    text_frame.text = value_4['CommentType']
-                                    text_box.width = Inches(7)
-                                    text_box.height = Inches(1.5)
-                                    font = text_frame.paragraphs[0].runs[0].font
-                                    font.name = "Calibri"
-                                    font.font_family = "Body"
-                                    font.color.rgb = RGBColor(12, 53, 106)  
-                                    font.bold = True
-
-                            elif zoom_value > 1:
-                                slide = pr1.slides.add_slide(pr1.slide_layouts[0])
-                                slide_number += 1
-                                
-                                
-                                
-
-                                left = Inches(1.5)
-                                top = Inches(9)
-                                width = Inches(6)
-                                height = Inches(1)
-                                text_box = slide.shapes.add_textbox(left, top, width, height)
-                                text_frame = text_box.text_frame
-                                text_frame.text = value_4['CommentType']
-                                text_box.width = Inches(7)
-                                text_box.height = Inches(1.5)
-                                font = text_frame.paragraphs[0].runs[0].font
-                                font.name = "Calibri"
-                                font.font_family = "Body"
-                                font.color.rgb = RGBColor(12, 53, 106)  
-                                font.bold = True
-                                
-                                # Add images in a grid layout
-                                left_start = Inches(1)
-                                top_start = Inches(4)
-                                image_width = Inches(2.5)
-                                image_height = Inches(2.5)
-                                spacing = Inches(0.35)
-
-                                for idx, image_path in enumerate(value_4['Zoomimage']):
-                                    col = idx % 2  # 2 images per row
-                                    row = idx // 2  # Rows based on index
-                                    left = left_start + col * (image_width + spacing)
-                                    top = top_start + row * (image_height + spacing)
-                                    slide.shapes.add_picture(image_path, left, top, image_width, image_height)
-                        
-                        components_others = [] 
+                            components_others = [] 
 
                 if key_3 in ['insulator', 'jumper']:
                     for key_4, value_4 in value_3.items():
@@ -362,10 +455,10 @@ for mainkey, mainvalue in data.items():
                                     slide.shapes.add_picture(image_path_right, left_image_right, top_image_right, width_image_right, height_image_right)
 
                                 # Add table for the component
-                                left_table = Inches(0.7)
+                                left_table = Inches(0.65)
                                 top_table = top_position + Inches(3.5)
                                 width_table = Inches(6)
-                                height_table = Inches(1)
+                                height_table = Inches(0.9)
                                 table_frame = slide.shapes.add_table(2, 5, left_table, top_table, width_table, height_table).table
 
                                 # Set table headings based on component type
@@ -406,16 +499,24 @@ for mainkey, mainvalue in data.items():
                                    
                                 # Add slides and component information
                                     if zoom_value == 1:
+
+                                        image_path_left = "normal.png"
+                                        left_image_left = Inches(0.9)
+                                        top_image_left = top_position + Inches(5.7)  
+                                        width_image_left = Inches(3)
+                                        height_image_left = Inches(2.5)
+                                        slide.shapes.add_picture(image_path_left, left_image_left, top_image_left, width_image_left, height_image_left)
+
                                         image_path_center = value_4['Zoomimage'][0]
-                                        left_image_center = Inches(2.5)
-                                        top_image_center = Inches(5.9)
-                                        width_image_center = Inches(2.5)
-                                        height_image_center = Inches(2.5)
+                                        left_image_center = Inches(4.8)
+                                        top_image_center = Inches(7.1)
+                                        width_image_center = Inches(1.9)
+                                        height_image_center = Inches(1.3)
                                         slide.shapes.add_picture(image_path_center, left_image_center, top_image_center, width_image_center, height_image_center)
                                         
                                         
-                                        left = Inches(1.5)
-                                        top = Inches(9)
+                                        left = Inches(0.5)
+                                        top = Inches(10)
                                         width = Inches(6)
                                         height = Inches(1)
                                         text_box = slide.shapes.add_textbox(left, top, width, height)
@@ -429,14 +530,21 @@ for mainkey, mainvalue in data.items():
                                         font.color.rgb = RGBColor(12, 53, 106)  
                                         font.bold = True
 
-                                    elif zoom_value > 1:
+                                    elif zoom_value == 2:
                                         
                                         slide_number += 1
+
+                                        image_path_left = "normal.png"
+                                        left_image_left = Inches(0.9)
+                                        top_image_left = top_position + Inches(5.7)  
+                                        width_image_left = Inches(3)
+                                        height_image_left = Inches(2.5)
+                                        slide.shapes.add_picture(image_path_left, left_image_left, top_image_left, width_image_left, height_image_left)
                                     
                                        
 
-                                        left = Inches(1.5)
-                                        top = Inches(9)
+                                        left = Inches(0.5)
+                                        top = Inches(10)
                                         width = Inches(6)
                                         height = Inches(1)
                                         text_box = slide.shapes.add_textbox(left, top, width, height)
@@ -451,18 +559,105 @@ for mainkey, mainvalue in data.items():
                                         font.bold = True
                                         
                                         # Add images in a grid layout
-                                        left_start = Inches(1)
-                                        top_start = Inches(6)
-                                        image_width = Inches(2.5)
-                                        image_height = Inches(2.5)
-                                        spacing = Inches(0.35)
+                                        left_start = Inches(5)
+                                        top_start = Inches(6.2)
+                                        image_width = Inches(1.9)
+                                        image_height = Inches(1.3)
+                                        spacing = Inches(0.25)
 
                                         for idx, image_path in enumerate(value_4['Zoomimage']):
-                                            col = idx % 2  # 2 images per row
-                                            row = idx // 2  # Rows based on index
+                                            col = idx % 1 
+                                            row = idx // 1  
                                             left = left_start + col * (image_width + spacing)
                                             top = top_start + row * (image_height + spacing)
                                             slide.shapes.add_picture(image_path, left, top, image_width, image_height)
+
+                                    elif zoom_value == 3:
+                                        
+                                        slide_number += 1
+
+                                        image_path_left = "normal.png"
+                                        left_image_left = Inches(0.9)
+                                        top_image_left = top_position + Inches(5.7)  
+                                        width_image_left = Inches(3)
+                                        height_image_left = Inches(2.5)
+                                        slide.shapes.add_picture(image_path_left, left_image_left, top_image_left, width_image_left, height_image_left)
+                                    
+                                       
+
+                                        left = Inches(0.5)
+                                        top = Inches(10)
+                                        width = Inches(6)
+                                        height = Inches(1)
+                                        text_box = slide.shapes.add_textbox(left, top, width, height)
+                                        text_frame = text_box.text_frame
+                                        text_frame.text = value_4['CommentType']
+                                        text_box.width = Inches(7)
+                                        text_box.height = Inches(1.5)
+                                        font = text_frame.paragraphs[0].runs[0].font
+                                        font.name = "Calibri"
+                                        font.font_family = "Body"
+                                        font.color.rgb = RGBColor(12, 53, 106)  
+                                        font.bold = True
+                                        
+                                        # Add images in a grid layout
+                                        left_start = Inches(5)
+                                        top_start = Inches(5.9)
+                                        image_width = Inches(1.8)
+                                        image_height = Inches(1.25)
+                                        spacing = Inches(0.11)
+
+                                        for idx, image_path in enumerate(value_4['Zoomimage']):
+                                            col = idx % 1 
+                                            row = idx // 1  
+                                            left = left_start + col * (image_width + spacing)
+                                            top = top_start + row * (image_height + spacing)
+                                            slide.shapes.add_picture(image_path, left, top, image_width, image_height)
+                                    
+
+
+                                    elif zoom_value == 4:
+                                        
+                                        slide_number += 1
+
+                                        image_path_left = "normal.png"
+                                        left_image_left = Inches(0.9)
+                                        top_image_left = top_position + Inches(5.7)  
+                                        width_image_left = Inches(3)
+                                        height_image_left = Inches(2.5)
+                                        slide.shapes.add_picture(image_path_left, left_image_left, top_image_left, width_image_left, height_image_left)
+                                    
+                                       
+
+                                        left = Inches(0.5)
+                                        top = Inches(10)
+                                        width = Inches(6)
+                                        height = Inches(1)
+                                        text_box = slide.shapes.add_textbox(left, top, width, height)
+                                        text_frame = text_box.text_frame
+                                        text_frame.text = value_4['CommentType']
+                                        text_box.width = Inches(7)
+                                        text_box.height = Inches(1.5)
+                                        font = text_frame.paragraphs[0].runs[0].font
+                                        font.name = "Calibri"
+                                        font.font_family = "Body"
+                                        font.color.rgb = RGBColor(12, 53, 106)  
+                                        font.bold = True
+                                        
+                                        # Add images in a grid layout
+                                        left_start = Inches(5)
+                                        top_start = Inches(5.6)
+                                        image_width = Inches(1.5)
+                                        image_height = Inches(1)
+                                        spacing = Inches(0.11)
+
+                                        for idx, image_path in enumerate(value_4['Zoomimage']):
+                                            col = idx % 1 
+                                            row = idx // 1  
+                                            left = left_start + col * (image_width + spacing)
+                                            top = top_start + row * (image_height + spacing)
+                                            slide.shapes.add_picture(image_path, left, top, image_width, image_height)
+                            
                             
                             components_ins_jum = []
         break                
